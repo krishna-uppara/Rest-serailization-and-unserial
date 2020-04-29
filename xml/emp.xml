@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee id="emp173217213">
+    <address>
+        <city>Bangaluru</city>
+        <location>sarjapura</location>
+        <pincode>562125</pincode>
+    </address>
+    <phoneNumber>7897439532</phoneNumber>
+    <empId>emp173217213</empId>
+    <fName>krishna</fName>
+    <lName>Uppara</lName>
+</Employee>
